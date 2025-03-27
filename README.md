@@ -104,39 +104,6 @@ For Android:
 npx react-native run-android
 ```
 
-<h2 id="contributing">
-
-<h2 id="contributing">📫 Contributing</h2>
-
-Contributions are welcome! Follow the steps below to contribute:
-
-1. **Fork the repository**:
-
-    ```bash
-    git clone https://github.com/yasir239/Netflix-AI-Recommendtion.git
-    ```
-
-2. **Create a new branch**:
-
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-
-3. **Make your changes** following the project's coding conventions and guidelines.
-
-4. **Commit your changes**:
-
-    ```bash
-    git commit -m "Add a brief message about the changes"
-    ```
-
-5. **Push to your branch**:
-
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-
-6. **Open a Pull Request** explaining the changes you made. Include screenshots if there are any visual changes and wait for the review!
 
 
 Thank you for using the Netflix Movie Recommendation App!
