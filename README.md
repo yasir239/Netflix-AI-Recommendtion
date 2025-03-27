@@ -42,7 +42,7 @@ Here you will learn how to run the project locally.
 Clone the repository:
 
 ```bash
-git clone https://github.com/tusharpamnani/Netflix-AI-Recommender.git
+git clone github.com/yasir239/Netflix-AI-Recommendtion.git
 cd Netflix-AI-Recommender
 ```
 
@@ -113,7 +113,7 @@ Contributions are welcome! Follow the steps below to contribute:
 1. **Fork the repository**:
 
     ```bash
-    git clone https://github.com/tusharpamnani/Netflix-AI-Recommender.git
+    git clone https://github.com/yasir239/Netflix-AI-Recommendtion.git
     ```
 
 2. **Create a new branch**:
@@ -138,13 +138,6 @@ Contributions are welcome! Follow the steps below to contribute:
 
 6. **Open a Pull Request** explaining the changes you made. Include screenshots if there are any visual changes and wait for the review!
 
-<h3>Documentation that might help</h3>
 
-- [📝 How to create a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
-- [💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+Thank you for using the Netflix Movie Recommendation App!
 
----
-
-Thank you for using the Netflix Movie Recommendation App! We hope you enjoy your movie recommendations.
-
----
